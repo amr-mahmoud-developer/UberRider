@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UberRider</string>
+    <string name="sign_in_with_phone">Sign In With Phone</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="register_text">Let\'s start with creating your account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_text">Continue</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="name">Rider Name</string>
+    <string name="txt_phone_number">Rider Phone No</string>
+    <string name="menu_exit">Exit</string>
+    <string name="request_driver_for_trip">Request Driver For Trip</string>
+    <string name="request_driver">Request Driver For Trip</string>
+    <string name="api_key">AIzaSyBBse_fj3omJRMqBm7_bwU7gwqd9EjZHiU"</string>
+    <string name="request_driver_now">Request Driver Now</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="mobile_12345677">Mobile : 12345677</string>
+    <string name="name_example">Name : Example</string>
+    <string name="driver_in_the_way_to_you">Driver In The Way To You</string>
+    <string name="car_number_34534">Car Number : 34534</string>
+</resources>
